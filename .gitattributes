@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 config/prod.config merge=ours
+=======
+config/dev.config merge=ours
+>>>>>>> dev
